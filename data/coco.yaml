@@ -1,0 +1,35 @@
+download: 'from utils.general import download, Path
+
+
+
+  # Download labels
+
+  #segments = True  # segment or box labels
+
+  #dir = Path(yaml[''path''])  # dataset root dir
+
+  #url = ''https://github.com/WongKinYiu/yolov7/releases/download/v0.1/''
+
+  #urls = [url + (''coco2017labels-segments.zip'' if segments else ''coco2017labels.zip'')]  #
+  labels
+
+  #download(urls, dir=dir.parent)
+
+
+  # Download data
+
+  #urls = [''http://images.cocodataset.org/zips/train2017.zip'',  # 19G, 118k images
+
+  #        ''http://images.cocodataset.org/zips/val2017.zip'',  # 1G, 5k images
+
+  #        ''http://images.cocodataset.org/zips/test2017.zip'']  # 7G, 41k images
+  (optional)
+
+  #download(urls, dir=dir / ''images'', threads=3)
+
+  '
+names:
+  0: brain tumor
+path: /content/drive/MyDrive/Folds
+train: /content/drive/MyDrive/Folds/train5
+val: /content/drive/MyDrive/Folds/fold_5

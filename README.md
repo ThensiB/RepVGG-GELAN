@@ -1,13 +1,13 @@
 # RepVGG-GELAN: Enhanced GELAN with VGG-STYLE ConvNets for Brain Tumour Detection
 
 ## Overview
-RepVGG-GELAN is a novel deep learning model designed for accurate and efficient brain tumour detection in medical images. It integrates RepVGG, a reparameterized convolutional approach, into the YOLO framework, enhancing speed and precision. The model also leverages Generalized Efficient Layer Aggregation Network (GELAN) to further improve feature extraction and detection performance.
+RepVGG-GELAN is a novel deep-learning model designed for accurate and efficient brain tumour detection in medical images. It integrates RepVGG, a reparameterized convolutional approach, into the YOLO framework, enhancing speed and precision. The model also leverages the Generalized Efficient Layer Aggregation Network (GELAN) to further improve feature extraction and detection performance.
 
 ## Features
 - Enhanced YOLO architecture by incorporating RepVGG for optimized object detection.
 - Efficient feature extraction by utilizing GELAN for improved accuracy and speed.
-- State-of-the-Art Performance by Achieving superior results compared to existing RCS-YOLO models.
-- Optimized for medical imaging, tailored for brain tumour detection using deep learning.
+- State-of-the-art performance by Achieving superior results compared to existing RCS-YOLO models.
+- Optimized for medical imaging, tailored for brain tumor detection using deep learning.
 
 ## Dataset
 The model is trained and evaluated on the **Brain Tumour Detection 2020 (Br35H) dataset** from Kaggle. This dataset consists of 701 medical images labeled for tumour detection.
@@ -66,10 +66,6 @@ If you use this work, please cite:
 }
 ```
 
-## Contact
-For queries, reach out to:
-- **Thennarasi Balakrishnan** - thennarasibalakrishnan@gmail.com
-
 ## Acknowledgments
-This research was conducted at **Cardiff Metropolitan University**. Special thanks to contributor and the open-source community for their valuable resources.
+This research was conducted at **Cardiff Metropolitan University**. Special thanks to the contributor and the open-source community for their valuable resources.
 

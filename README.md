@@ -67,5 +67,5 @@ If you use this work, please cite:
 ```
 
 ## Acknowledgments
-This research was conducted at **Cardiff Metropolitan University**. Special thanks to the contributor and the open-source community for their valuable resources.
+This research was conducted at **Cardiff Metropolitan University**. Special thanks to the contributor and the open-source community for their valuable resources. Anyone is free to use this code.
 
